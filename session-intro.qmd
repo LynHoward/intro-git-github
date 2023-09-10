@@ -25,7 +25,7 @@ embed-resources: true
 -   To reassure that mistakes will happen and that's a feature of Git
 - [Turn around your Git mistakes in 17 ways](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)  
 The following **comes with a language warning!**
-- [Oh Shit, Git!?!](https://ohshitgit.com/) 
+- [Oh Shit, Git!?!](https://ohshitgit.com/) or it's swear-free version [Dangit, Git!?!](https://dangitgit.com/)
 :::
 
 ## Agenda - session one (about 3.5 hours)
